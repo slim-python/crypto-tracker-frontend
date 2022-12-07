@@ -11,6 +11,14 @@
   "dependencies": {
     "next": "13.0.6",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-data-table-component": "^7.5.3",
+    "react-dom": "18.2.0",
+    "styled-components": "^5.3.6",
+    "swiper": "^8.4.5"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.19",
+    "tailwindcss": "^3.2.4"
   }
 }
