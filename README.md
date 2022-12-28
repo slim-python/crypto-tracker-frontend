@@ -8,3 +8,5 @@ how to run
 `npm i`
 
 `npm run dev`
+
+demo: https://youtu.be/S2jl8zFW6zw
